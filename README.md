@@ -1,7 +1,7 @@
-)
+
 <h1 align="center">Hi 👋, I'm Praneeth</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/CapgeminiIndia-coding-techchallenge2020-techchallenge-u2pmTWUi0MXjyrMaVj")
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/CapgeminiIndia-coding-techchallenge2020-techchallenge-u2pmTWUi0MXjyrMaVj">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praneethp4&label=Profile%20views&color=0e75b6&style=flat" alt="praneethp4" /> </p>
 
