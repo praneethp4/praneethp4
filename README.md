@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Front End Development, Machine Learning**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
@@ -60,6 +60,9 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praneethp4&show_icons=true&locale=en&layout=compact" alt="praneethp4" /></p>
 <br>
+
+
+<h3 align="left">Connect with me:</h3>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praneethp4&show_icons=true&locale=en" alt="praneethp4" /></p>
 
