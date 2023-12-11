@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Praneeth</h1>
+<h1 align="center">Hi 👋, I'm Praneeth</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praneethp4&label=Profile%20views&color=0e75b6&style=flat" alt="praneethp4" /> </p>
@@ -48,14 +48,17 @@
 <h3>Framework</h3>
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
+<br>
 
 <h3>Other</h3>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<br>
 
 <h3>Software</h3>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praneethp4&show_icons=true&locale=en&layout=compact" alt="praneethp4" /></p>
-
+<br>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praneethp4&show_icons=true&locale=en" alt="praneethp4" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praneethp4&" alt="praneethp4" /></p>
