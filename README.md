@@ -1,8 +1,8 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://images.unsplash.com/photo-1504805572947-34fad45aed93?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHByb2dyYW1tZXJ8ZW58MHx8MHx8fDA%3D))]
+
 
 <h1 align="center">Hi 👋, I'm Praneeth</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://giphy.com/gifs/CapgeminiIndia-coding-techchallenge2020-techchallenge-u2pmTWUi0MXjyrMaVj](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjN5Y3VjdTd6dzN5enlvMTBlMGZ6OTIxdGUyYzNuMDF1bHk3M3hvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif)">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praneethp4&label=Profile%20views&color=0e75b6&style=flat" alt="praneethp4" /> </p>
 
 - 💬 Ask me about **Front End Development, Machine Learning**
