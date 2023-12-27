@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praneethp4&label=Profile%20views&color=0e75b6&style=flat" alt="praneethp4" /> </p>
 
-- 💬 Ask me about **Front End Development, Machine Learning**
+- 💬 Ask me about **Full Stack Development, Machine Learning, Cloud Technologies**
 
 
 <p align="left">
